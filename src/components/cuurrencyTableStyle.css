@@ -1,0 +1,7 @@
+.currencyTable {
+    display: flex;
+    margin: 20px;
+    font-size: 20px;
+    border: aquamarine solid;
+    width: fit-content;
+}
