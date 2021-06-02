@@ -23,9 +23,9 @@ export default function Table () {
 
             <form>
                USD<input type={'radio'} name={'cur'}></input>
-               EUR<input type={'radio'}name={'cur'}></input>
-               RUR<input type={'radio'}name={'cur'}></input>
-               BTC<input type={'radio'}name={'cur'}></input>
+               EUR<input type={'radio'} name={'cur'}></input>
+               RUR<input type={'radio'} name={'cur'}></input>
+               BTC<input type={'radio'} name={'cur'}></input>
 
 
                 <div><input type={'text'}></input></div>
